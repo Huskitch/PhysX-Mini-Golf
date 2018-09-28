@@ -1,0 +1,18 @@
+﻿  MainScene.cpp
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(37): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(41): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(161): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(165): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(169): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(173): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(345): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(349): warning C4244: 'argument': conversion from 'double' to 'physx::PxReal', possible loss of data
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(436): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\prefabbase.h(440): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+c:\users\user\desktop\today\workshop4\cgp3012m physics simulation - ashley knowles 15559083\tutorial 4\mainscene.cpp(60): warning C4305: 'argument': truncation from 'double' to 'physx::PxReal'
+  Generating Code...
+  Compiling...
+  VisualDebugger.cpp
+  Generating Code...
+  Tutorial 4.vcxproj -> C:\Users\user\Desktop\today\Workshop4\CGP3012M Physics Simulation - Ashley Knowles 15559083\x64\Debug\Tutorial 4.exe
+  Tutorial 4.vcxproj -> C:\Users\user\Desktop\today\Workshop4\CGP3012M Physics Simulation - Ashley Knowles 15559083\x64\Debug\Tutorial 4.pdb (Partial PDB)
